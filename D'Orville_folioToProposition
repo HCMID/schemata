@@ -1,7 +1,7 @@
 folioStart,folioEnd,proposition
-5v,7r,"1.definitions"
-7r,7v,"1.postulates"
-7v,7v,"1.commonNotions"
+5v,7r,"1.definitions.0"
+7r,7v,"1.postulates.0"
+7v,7v,"1.commonNotions.0"
 7v,8r,"1.propositions.1"
 8r,8v,"1.propositions.2"
 8v,9r,"1.propositions.3"
