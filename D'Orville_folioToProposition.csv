@@ -180,8 +180,8 @@ folioStart,folioEnd,proposition
 114v,115v,6.propositions.31
 115v,116r,6.propositions.32
 116r,117r,6.propositions.33
-117r,122v,unknown
-122v,123v,7.definitions
+117r,123r,unknown
+123r,123v,7.definitions
 123v,124r,7.propositions.1
 124r,125r,7.propositions.2
 125r,126r,7.propositions.3
@@ -201,23 +201,24 @@ folioStart,folioEnd,proposition
 132r,132v,7.propositions.17
 132v,132v,7.propositions.18
 132v,133v,7.propositions.19
-no 20 labelled?
-133v,134r,7.propositions.21
-134r,134r,7.propositions.22
-134r,134v,7.propositions.23
-135r,135r,7.propositions.24
-135r,7.propositions.25
-7.propositions.26
-7.propositions.27
-7.propositions.28
-7.propositions.29
-7.propositions.30
-7.propositions.31
-7.propositions.32
-7.propositions.33
-7.propositions.34
-7.propositions.35
-7.propositions.36
-7.propositions.37
-7.propositions.38
-7.propositions.39
+133v,134r,7.propositions.20 (labelled 21)
+134r,134r,7.propositions.unknown (labelled 22)
+134r,134v,7.propositions.21 (labelled 23)
+135r,135r,7.propositions.22 (labelled 24)
+135r,135v,7.propositions.23 (labelled 25)
+135v,136r,7.propositions.24 (labelled 26)
+136r,136v,7.propositions.25 (labelled 27)
+136v,137r,7.propositions.26 (labelled 28)
+137r,137v,7.propositions.27 (labelled 29)
+137v,138r,7.propositions.28 (labelled 30)
+138r,138r,7.propositions.29 (labelled 31)
+138v,139r,7.propositions.30 (labelled 32)
+139r,139v,7.propositions.31 (labelled 33)
+139v,139v,7.propositions.32 (labelled 34)
+139v,140v,7.propositions.33 (labelled 35)
+140v,141v,7.propositions.34 (labelled 36)
+141v,141v,7.propositions.35 (labelled 37)
+142r,142v,7.propositions.36 (labelled 38)
+142v,143r,7.propositions.37 (labelled 39)
+143r,143r,7.propositions.38 (labelled 40)
+143r,143v,7.propositions.39 (labelled 41)
