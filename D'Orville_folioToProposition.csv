@@ -492,7 +492,7 @@ folioStart,folioEnd,proposition,label
 337v,341r,13.propositions.6,6
 341r,342r,13.propositions.7,7
 342r,342v,13.propositions.8,8
-342v,343v.13.propositions.9,9
+342v,343v,13.propositions.9,9
 343v,344v,13.propositions.10,10
 345r,356v,13.propositions.11,11
 346v,347r,13.propositions.12,12
@@ -500,7 +500,7 @@ folioStart,folioEnd,proposition,label
 348v,349r,13.propositions.13.lemma,lemma
 349r,350r,13.propositions.14,14
 350v,351r,13.propositions.15,15
-351v,13.propositions.16,16 
+351v,,13.propositions.16,16 
 ,,13.propositions.17,17 (folios 356r-365v DNE)
 ,369r,13.propositions.18,18
 369r,,13.propositions.18.other,other
