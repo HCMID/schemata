@@ -173,10 +173,10 @@ urn:cite:bsb:cg427.84r,175,urn:cite:bsb:muncg427img.MunCG427_img176,recto,"Bayer
 urn:cite:bsb:cg427.84v,176,urn:cite:bsb:muncg427img.MunCG427_img177,verso,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 84,verso,",
 urn:cite:bsb:cg427.85r,177,urn:cite:bsb:muncg427img.MunCG427_img178,recto,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 85,recto,",
 urn:cite:bsb:cg427.85v,178,urn:cite:bsb:muncg427img.MunCG427_img179,verso,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 85,verso,",
-urn:cite:bsb:cg427.86r,179,urn:cite:bsb:muncg427img.MunCG427_img180,recto,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 86,recto", urn:cite:bsb:muncg427img.MunCG427_img180@0.3013,0.8885,0.4004,0.1115
+urn:cite:bsb:cg427.86r,179,urn:cite:bsb:muncg427img.MunCG427_img180,recto,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 86,recto", "urn:cite:bsb:muncg427img.MunCG427_img180@0.3013,0.8885,0.4004,0.1115"
 urn:cite:bsb:cg427.86v,180,urn:cite:bsb:muncg427img.MunCG427_img181,verso,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 86,verso,",
 urn:cite:bsb:cg427.87r,181,urn:cite:bsb:muncg427img.MunCG427_img182,recto,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 87,recto,",
-,,urn:cite:bsb:muncg427img.MunCG427_img183,,, urn:cite:bsb:muncg427img.MunCG427_img183@0.03,0.4742,0.1572,0.1433
+,,urn:cite:bsb:muncg427img.MunCG427_img183,,, "urn:cite:bsb:muncg427img.MunCG427_img183@0.03,0.4742,0.1572,0.1433"
 ,,urn:cite:bsb:muncg427img.MunCG427_img184,,,
 ,,urn:cite:bsb:muncg427img.MunCG427_img185,,,
 urn:cite:bsb:cg427.88r,186,urn:cite:bsb:muncg427img.MunCG427_img186,recto,"Bayerische Staatsbibliothek, Codex Graecus 427,folio 88,recto,",
@@ -211,7 +211,7 @@ urn:cite:bsb:cg427.102r,214,urn:cite:bsb:muncg427img.MunCG427_img214,recto,"Baye
 urn:cite:bsb:cg427.102v,215,urn:cite:bsb:muncg427img.MunCG427_img215,verso,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 102, verso,",
 urn:cite:bsb:cg427.103r,216,urn:cite:bsb:muncg427img.MunCG427_img216,recto,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 103, recto,",
 urn:cite:bsb:cg427.103v,217,urn:cite:bsb:muncg427img.MunCG427_img217,verso,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 103, verso,",
-urn:cite:bsb:cg427.104r,218,urn:cite:bsb:muncg427img.MunCG427_img218,recto,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 104, recto",urn:cite:bsb:muncg427img.MunCG427_img218@0.3273,0.2502,0.6567,0.2359
+urn:cite:bsb:cg427.104r,218,urn:cite:bsb:muncg427img.MunCG427_img218,recto,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 104, recto","urn:cite:bsb:muncg427img.MunCG427_img218@0.3273,0.2502,0.6567,0.2359"
 urn:cite:bsb:cg427.104v,219,urn:cite:bsb:muncg427img.MunCG427_img219,verso,"Bayerische Staatsbibliothek, Codex Graecus 427, folio 104, verso",Diagram
 ,,urn:cite:bsb:muncg427img.MunCG427_img220,,,Diagram
 ,,urn:cite:bsb:muncg427img.MunCG427_img221,,,
